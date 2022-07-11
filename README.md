@@ -1,3 +1,1 @@
-# spring-template
-- Spring Security 
-- Spring MVC 
+##### spring-template  
